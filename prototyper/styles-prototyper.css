@@ -1,0 +1,75 @@
+@charset "UTF-8";
+/* @font-face rule syntax courtesy Charles W. Borchers, IV/Southeastern Louisiana University (http://english.selu.edu/humanitiesonline/kempe). */
+/* Cross-browser support REQUIRES that 1) the style sheet containing the @font-face rule(s), 2) the font(s) referenced by those rule(s), and 3) the Web page(s) that will use them share the SAME folder. */
+@font-face {
+font-family: Andron;
+src: url('andron_scriptor_web_3_1.eot'); /* Embedded Font Type REQUIRED by IE8 */
+}
+@font-face {
+font-family: Andron;
+src: url('andron_scriptor_web_3_1.woff'); /* Embedded Font Type Used by Other Browsers */
+}
+a:link {
+	text-decoration: none;
+	color: #999;
+}
+a:visited {
+	text-decoration: none;
+	color: #999;
+}
+a:hover {
+	text-decoration: none;
+	color: #C00;
+}
+a:active {
+	text-decoration: none;
+	color: #999;
+}
+.input {
+	font-family: Arial;
+	font-size: 10pt;
+	color: #000;
+	text-align: justify;
+	height: 200px;
+	width: 750px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5pt;
+}
+.medieval {
+	font-family: Andron;
+	font-size: 12pt;
+	color: #000;
+	text-align: justify;
+}
+.main {
+	font-family: Arial;
+	font-size: 10pt;
+	color: #000;
+	text-align: justify;
+}
+.main-subtitle {
+	font-family: Arial;
+	font-size: 8pt;
+	color: #000;
+	text-align: justify;
+}
+.main-title {
+	font-family: Arial;
+	font-size: 16pt;
+	color: #000;
+	text-align: justify;
+}
+.output {
+	font-family: Andron, Charis;
+	font-size: 12pt;
+	color: #000;
+	text-align: justify;
+	height: 194px;
+	width: 745px;
+	padding-top: 6pt;
+	padding-right: 6pt;
+	padding-bottom: 6pt;
+	padding-left: 6pt;
+}

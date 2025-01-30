@@ -1,0 +1,192 @@
+@charset "UTF-8";
+/* @font-face rule syntax courtesy Charles W. Borchers, IV/Southeastern Louisiana University (http://english.selu.edu/humanitiesonline/kempe). */
+/* Cross-browser support REQUIRES that 1) the style sheet containing the @font-face rule(s), 2) the font(s) referenced by those rule(s), and 3) the Web page(s) that will use them share the SAME folder. */
+@font-face {
+font-family: Andron;
+src: url('andron_scriptor_web_3_1.eot'); /* Embedded Font Type REQUIRED by IE8 */
+}
+@font-face {
+font-family: Andron;
+src: url('andron_scriptor_web_3_1.ttf'); /* Embedded Font Type Used by Other Browsers */
+}
+a:link {
+	color: #666;
+	text-decoration: none;
+}
+a:visited {
+	color: #666;
+	text-decoration: none;
+}
+a:hover {
+	color: #C00;
+	text-decoration: none;
+}
+a:active {
+	color: #666;
+	text-decoration: none;
+}
+body {
+	font-family: Arial;
+	font-size: 10pt;
+	color: #000;
+	text-align: justify;
+	background-color: #FFF;
+}
+.body-blue {
+	color: #00F;
+}
+.body-gray {
+	color: #CCC;
+}
+.body-green {
+	color: #060;
+}
+.body-pink {
+	color: #F0F;
+}
+.block_text {
+	padding-left: 25px;
+}
+.block_text-indentedx2 {
+	padding-left: 25px;
+	padding-right: 25px;
+}
+.cv-photo {
+	float: left;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000;
+	height: 100px;
+	width: 67px;
+	padding-bottom: 5px;
+	padding-top: 4px;
+}
+.cv-text {
+	width: 876px;
+	float: left;
+	padding-bottom: 21px;
+}
+.cv-title {
+	float: left;
+	height: 30px;
+	padding-top: 74px;
+	padding-left: 5px;
+	width: 804px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000;
+	padding-bottom: 5px;
+}
+.heading-1 {
+	font-size: 24pt;
+	color: #C00;
+	font-variant: small-caps;
+	line-height: 18pt;
+}
+.heading-2 {
+	font-size: 14pt;
+	color: #C00;
+	line-height: 12pt;
+	font-variant: small-caps;
+}
+.heading-2-black {
+	font-size: 14pt;
+	color: #000;
+	line-height: 12pt;
+	font-variant: small-caps;
+}
+.heading-3 {
+	font-size: 12pt;
+	line-height: 12pt;
+}
+.medieval {
+	font-family: Andron;
+	font-size: 12pt;
+	color: #000;
+	text-align: justify;
+}
+#affiliates {
+	float: left;
+	width: 275px;
+	text-align: right;
+	padding-right: 25px;
+	height: 60px;
+	position: absolute;
+	top: 728px;
+}
+#content-center {
+	width: 428px;
+	float: left;
+	height: 760px;
+	overflow: auto;
+	background-color: #FFF;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+#content-left {
+	float: left;
+	height: 760px;
+	background-color: #FFF;
+	padding-right: 25px;
+	text-align: right;
+	width: 250px;
+	padding-left: 25px;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #CCC;
+	overflow: auto;
+}
+#content-right {
+	float: left;
+	height: 760px;
+	overflow: auto;
+	background-color: #FFF;
+	width: 420px;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #CCC;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+#content-right-expanded {
+	float: left;
+	height: 760px;
+	overflow: auto;
+	background-color: #FFF;
+	width: 899px;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+#footer {
+	width: 1250px;
+	float: left;
+	height: 20px;
+}
+#header {
+	width: 1250px;
+	float: left;
+	height: 20px;
+}
+#logo {
+	background-color: #000;
+	height: 252px;
+	width: 254px;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-webkit-border-top-left-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	text-align: center;
+	padding-top: 2px;
+	float: right;
+	margin-bottom: 40px;
+}
+#main {
+	width: 1250px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 800px;
+}
