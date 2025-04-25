@@ -91,7 +91,7 @@
    <div id="ab29" class="ab">Savyowr in hys <span class="abbr">&#xA753;pyr</span><span class="expan">p<span class="ex">ro</span>pyr</span> <span class="abbr">&#xA751;soone</span><span class="expan">p<span class="ex">er</span>soone</span> examplyd &#x00B7; sadly &#x00B7; he &#x2E17;
    </div>
    <br/>
-   <div id="ab30" class="ab">trad it &#x00B7; &#x0026; dewly he went it &#x00B7; be forn &#x00B7;<span class="add-RED_INK_ANNOTATOR">&#x00B7;</span> <span class="highlight-RIA">T</span>han <span class="abbr">&#x00FE;<sup>i</sup>s</span><span class="expan">&#x00FE;<span class="ex">i</span>s</span> crea&#x2E17;
+   <div id="ab30" class="ab">trad it &#x00B7; &#x0026; dewly he went it &#x00B7; be forn <span class="add-RED_INK_ANNOTATOR">&#x00B7;</span> <span class="highlight-RIA">T</span>han <span class="abbr">&#x00FE;<sup>i</sup>s</span><span class="expan">&#x00FE;<span class="ex">i</span>s</span> crea&#x2E17;
    </div>
    <br/>
    <div id="ab31" class="ab">tur of whom thys tretys &#x00B7; thorw &#x00FE;e <span class="abbr">m&#x1DD1;cy</span><span class="expan">m<span class="ex">er</span>cy</span> of <span class="abbr">Ihu</span><span class="expan">Ih<span class="ex">es</span>u</span> schal

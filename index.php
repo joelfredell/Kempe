@@ -31,10 +31,10 @@
 	<p>The manuscript facsimile of <em>The Book of Margery Kempe </em>in BL Add. 61823, and interactive transcriptions for the documentary edition are presented in <a href="showcase/webapp.php" target="_blank">Showcase</a>.  For assistance in using this Web&#x2010;based tool, please click (or tap) the Info button to the far right of the Web app's toolbar. The full facsimile and diplomatic edition of Wynkyn de Worde's pamphlet of extracts from <em>The Book of Margery Kempe</em>, from the copy owned by Cambridge University Library, is also in Showcase.</p>
   </div>
   <div id="content-right">
-	<span class="heading-2">Coming Soon</span>
+	<span class="heading-2">New Reader’s Edition!</span>
     <hr/>
-    <p>Over the next year and more, we will add resources to the  online documentary edition of <em>The Book of Margery Kempe </em>for our visitors&#x2014;including a new reader’s edition of <em>The Book of Margery Kempe</em>. In the interim, we welcome your feedback as we work to bring the next phase of our project online.</p>
-    <p>Questions and comments may be directed to our project director, <a href="mailto:jfredell@selu.edu">Joel Fredell</a>, or Web developer, <a href="mailto:charles.borchers@selu.edu">Charles Borchers, IV</a>.</p>
+    <p>Included on this site is a new reader’s edition of <em>The Book of Margery Kempe</em> designed for students and others who have at least a beginner’s experience with Middle English.  The text is based on our documentary edition, lightly normalized, and can be read in parallel with the manuscript facsimile or its transcription.  The glossary has been built entirely anew with the help of the online <a href="https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary">Middle English Dictionary</a> (revised 2018).</p>
+    <p>We welcome your feedback. Questions and comments may be directed to the project director and editor, <a href="mailto:jfredell@selu.edu">Joel Fredell</a>.</p>
   </div>
   <div id="footer"></div>
   <div id="affiliates"><a href="http://www.southeastern.edu"><img src="images/logos/CCLogo.jpg" width="96" height="62" longdesc="http://creativecommons.org/publicdomain/" /><img src="images/logos/southeastern.jpg" alt="Southeastern Logo" width="48" height="62" border="0" /></a>&nbsp;<a href="http://www.bl.uk/"><img src="images/logos/BL_From the collections of.jpg" alt="British Library Mark" width="83" height="62" border="0" /></a></div>

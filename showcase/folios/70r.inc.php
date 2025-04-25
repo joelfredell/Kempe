@@ -23,7 +23,8 @@
    <br/>
    <div class="prompt-x3">t</div>
    <div id="ab5" class="ab"><span class="add-RED_INK_ANNOTATOR">
-      <div class="dropcap-x3">T</div></span>hus thorw heryng of holy bokys <span class="add-RED_INK_ANNOTATOR">/</span> &#x0026; thorw heryng<div class="add-margin-right-RED_INK_ANNOTATOR">&#x00B6;</div><div class="add-margin-right-SALTHOWS" style="left: 36em"><span class="abbr">ca<sup>m</sup></span><span class="expan">ca<span class="ex">pitulum</span></span> &#x00B7;49&#x00B7;</div>
+      <div class="dropcap-x3">T</div></span>hus thorw heryng of holy bokys <span class="add-RED_INK_ANNOTATOR">/</span> &#x0026; thorw heryng<div class="add-margin-right-RED_INK_ANNOTATOR">&#x00B6;</div>
+      <div class="add-margin-right-SALTHOWS" style="left: 36em"><span class="abbr">ca<sup>m</sup></span><span class="expan">ca<span class="ex">pitulum</span></span> &#x00B7;59&#x00B7;</div>
    </div>
    <br/>
    <div id="ab6" class="ab">of holy <span class="abbr">&#x1E9C;mownys</span><span class="expan">s<span class="ex">er</span>mownys</span> <span class="add-RED_INK_ANNOTATOR">/</span> sche <span class="abbr">eu&#x1DD1;</span><span class="expan">eu<span class="ex">yr</span></span> encresyd in <span class="abbr">co&#x0305;templa</span><span class="expan">co<span class="ex">n</span>templa</span>&#x2E17;

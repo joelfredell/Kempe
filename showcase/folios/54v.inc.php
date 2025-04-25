@@ -107,7 +107,7 @@
    <br/>
    <div id="ab35" class="ab">syng &#x0026; desyryng <span class="add-RED_INK_ANNOTATOR">/</span> as it semyd hir <span class="add-RED_INK_ANNOTATOR">/</span> to opressyn hir &#x0026; for lyn</div>
    <br/>
-   <div id="ab36" class="ab">hir <span class="add-RED_INK_ANNOTATOR">/</span> &#x0026; <span class="abbr">&#x00FE;&#xF200;&#x2E27;</span><span class="expan">&#x00FE;a<span class="ex">n</span></span> had sche meche drede &#x0026; meche sorwe crying hym<span class="abbr">hȳ</span><span class="expan">hy<span class="ex">m</span></span></div>
+   <div id="ab36" class="ab">hir <span class="add-RED_INK_ANNOTATOR">/</span> &#x0026; <span class="abbr">&#x00FE;&#xF200;&#x2E27;</span><span class="expan">&#x00FE;a<span class="ex">n</span></span> had sche meche drede &#x0026; meche sorwe crying hym</div>
    
    
 </div>

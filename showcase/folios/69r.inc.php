@@ -44,7 +44,7 @@
    <br/>
    <div class="prompt-x3">o</div>
    <div id="ab12" class="ab"><span class="add-RED_INK_ANNOTATOR">
-      <div class="dropcap-x3">O</div></span>N a tyme as <span class="abbr">&#x00FE;<sup>e</sup></span><span class="expan">&#x00FE;<span class="ex">e</span></span> forseyd creatur was in hir <span class="abbr">co&#x0352;</span><span class="expan">co<span class="ex">n</span></span>&#x2E17;<div class="add-margin-right-RED_INK_ANNOTATOR">&#x00B6;</div><div class="add-margin-right-SALTHOWS" style="left: 36em"><span class="abbr">ca<sup>m</sup></span><span class="expan">ca<span class="ex">pitulum</span></span> &#x00B7;48&#x00B7;</div>
+      <div class="dropcap-x3">O</div></span>N a tyme as <span class="abbr">&#x00FE;<sup>e</sup></span><span class="expan">&#x00FE;<span class="ex">e</span></span> forseyd creatur was in hir <span class="abbr">co&#x0352;</span><span class="expan">co<span class="ex">n</span></span>&#x2E17;<div class="add-margin-right-RED_INK_ANNOTATOR">&#x00B6;</div><div class="add-margin-right-SALTHOWS" style="left: 36em"><span class="abbr">ca<sup>m</sup></span><span class="expan">ca<span class="ex">pitulum</span></span> ·58·</div>
    </div>
    <br/>
    <div id="ab13" class="ab">templacyon <span class="add-RED_INK_ANNOTATOR">/</span> sche <span class="abbr">hu&#x0305;gryd</span><span class="expan">hu<span class="ex">n</span>gryd</span> ryth sor <span class="abbr">aft &#x1DD1;</span><span class="expan">aft<span class="ex">yr</span></span> goddys

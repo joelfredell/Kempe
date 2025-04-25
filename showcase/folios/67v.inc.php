@@ -49,7 +49,7 @@
    <div id="ab13" class="ab">may not chesyn <span class="add-RED_INK_ANNOTATOR">/</span> for sche hath my <span class="abbr">lord&#xA76D;</span><span class="expan">lord<span class="ex">ys</span></span> lettyr of <span class="abbr">Cawnt &#x1DD1;</span><span class="expan">Cawnt<span class="ex">yr</span></span>&#x2E17;
    </div>
    <br/>
-   <div id="ab14" class="ab">bery <span class="add-RED_INK_ANNOTATOR">/</span> &#x0026; hys seel <span class="add-RED_INK_ANNOTATOR">/</span> in <span class="abbr">&#x00FE;<sup>e</sup></span><span class="expan">&#x00FE;<span class="ex">e</span></span> whech we am comawndyd be <span class="abbr">v&#x1DD1;tu</span><span class="expan">v<span class="ex">er</span>tu</span></div>
+   <div id="ab14" class="ab">bery <span class="add-RED_INK_ANNOTATOR">/</span> &#x0026; hys seel <span class="add-RED_INK_ANNOTATOR">/</span> in <span class="abbr">&#x00FE;<sup>e</sup></span><span class="expan">&#x00FE;<span class="ex">e</span></span> whech we arn comawndyd be <span class="abbr">v&#x1DD1;tu</span><span class="expan">v<span class="ex">er</span>tu</span></div>
    <br/>
    <div id="ab15" class="ab">of obedyens to heryn hir <span class="abbr">co&#x0352;fessyon</span><span class="expan">co<span class="ex">n</span>fessyon</span> <span class="add-RED_INK_ANNOTATOR">/</span> &#x0026; ministryn to hir
    </div>
