@@ -9,7 +9,7 @@
 	<p><a href="showcase/webapp.php" target="_blank">Facsimile and Edition</a></p>
     <p><a href="showcase/webapp_wynkyn.php" target="_blank">Wynkyn de Worde Pamphlet</a></p>
     <p><a href="KempeWorde.html" target="_blank">The Book and de Worde Compared</a></p>
-    <p><a href="kempe_reader_edition.php" target="_blank">Kempe Reader's Edition</a></p>
+    <p><a href="KempeReader.html" target="_blank">Kempe Reader's Edition</a></p>
     <p><a href="bibliography.php">Bibliography</a></p>
 	<p><a href="special_characters/embedded.php">Special Characters</a></p>
     <p><a href="code.php">Code Samples</a></p>
