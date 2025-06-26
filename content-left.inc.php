@@ -16,7 +16,6 @@
     <p><a href="software.php">Software</a></p>
     <p><a href="legal.php">Legal and Funding</a></p>
     <p><a href="team.php">The Project Team</a></p>
-    <a href="KempeReaderEditionEntire.html">Under construction[Coming Soon]</a>
 
     
   </div>
